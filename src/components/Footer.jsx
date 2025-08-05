@@ -6,8 +6,9 @@ const Footer = () => {
         <h1 className='text-2xl font-bold'>Portfolio</h1>
         <div className='flex gap-7'>
             <a href='#beranda'>Beranda</a>
-            <a href='#tentang'>Tentang</a>
             <a href='#proyek'>Proyek</a>
+            <a href='#pendidikan'>Pendidikan</a>
+            <a href='#kontak'>Kontak</a>
         </div>
         <div className='flex items-center gap-3'>
             <a href='https://github.com/LVNAx'>
@@ -23,5 +24,6 @@ const Footer = () => {
     </div>
   )
 }
+
 
 export default Footer
