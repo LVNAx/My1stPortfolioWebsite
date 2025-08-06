@@ -140,7 +140,7 @@ export const listPendidikan = [
     gambar: Pendidikan1,
     nama: "Universitas Indonesia",
     desk: "Jurusan Ilmu Komputer",
-    tahun: "2025 - Sekarang",
+    tahun: "2025—Sekarang",
     dad: "300",
   },
   {
@@ -152,3 +152,4 @@ export const listPendidikan = [
     dad: "300",
   }
 ];
+
