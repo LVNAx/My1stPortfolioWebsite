@@ -20,7 +20,8 @@ function App() {
     AOS.init({
       duration: 1000,
       delay: 100,
-      once: true,
+      once: false,
+      mirror: true,
       offset: 120,
     });
   }, []);
