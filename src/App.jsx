@@ -21,7 +21,7 @@ function App() {
       duration: 1000,
       delay: 100,
       once: false,
-      mirror: true,
+      mirror: false,
       offset: 120,
     });
   }, []);
