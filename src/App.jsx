@@ -51,7 +51,7 @@ function App() {
           Saya senang mempelajari data science dan suka mempelajari hal baru. Baik itu membuat website, mengikuti penulisan jurnal ilmiah, dan fotografi.
           </p>
           <div className='flex items-center sm:gap-4 gap-2'>
-            <a href='https://drive.google.com/file/d/1nhPtBQECUEB_oUYqnnT-qGGEXfGomVkO/view?usp=sharing' 
+            <a href='https://drive.google.com/file/d/1HrVWCXgNav8XcS2CDnJ36-xm4jHDyUCa/view?usp=sharing' 
             className='bg-violet-700 p-4 rounded-2xl hover:bg-violet-600' target="_blank" rel="noopener noreferrer">
               Download CV <i className="ri-download-line ri-lg"></i>
             </a>
